@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+	Version="1"
+	conditions="">
+	<TocEntry
+		Title="Title"
+		Link="/Content/Print Only Topics/PDGGuideBTitle.htm"
+		StartSection="false"
+		PageNumber="1"
+		StartChapter="true"
+		PageType="normal"
+		PageNumberReset="reset"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/Title8_5X11.flpgl"
+	StartPageLayout="false"></TocEntry>
+	<TocEntry
+		Title="Copyright"
+		Link="/Content/Print Only Topics/Copyright.htm"
+		StartPageLayout="true"
+		StartSection="false"
+		BreakType="pageLayout"
+	PageLayout="/Content/Resources/PageLayouts/8_5X11/Copyright8_5X11.flpgl"></TocEntry>
+	<TocEntry
+		Title="PrintTOC"
+		Link="/Content/Print Only Topics/TOC.htm"
+		StartSection="false"
+		PageNumber="1"
+		PageNumberReset="continue"
+		StartChapter="true"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/TOC8_5X11.flpgl"
+		PageType="firstright"
+		PageNumberFormat="lower-roman"
+		StartPageLayout="false"
+	AutoEndOnLeftPage="enabled"></TocEntry>
+	<TocEntry
+		Title="CH 1 Images"
+		Link="/Content/D_Images/Images.htm"
+		BreakType="chapter"
+		StartSection="false"
+		PageNumberReset="continue"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+		PageType="firstright"
+		ChapterNumberReset="reset"
+		ChapterNumber="1"
+		SectionNumberReset="continue"
+		VolumeNumberReset="same"
+		PageNumberFormat="decimal">
+		<TocEntry
+			Title="Positioned Left"
+		Link="/Content/D_Images/ImagePositionedLeft.htm" />
+		<TocEntry
+			Title="Positioned Right"
+		Link="/Content/D_Images/ImagePositionedRight.htm" />
+		<TocEntry
+			Title="Absolute Position"
+		Link="/Content/D_Images/ImageWithAbsolutePosition.htm" />
+		<TocEntry
+			Title="Image Within a List"
+		Link="/Content/D_Images/ImageWithinList.htm" />
+	</TocEntry>
+	<TocEntry
+		Title="CH 2 Lists"
+		Link="/Content/B_Links and Lists/Lists.htm"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+		PageNumber=""
+		PageNumberReset="continue"
+		StartPageLayout="false"
+		StartSection="false"
+		AutoEndOnLeftPage="enabled"
+		SectionNumberReset="continue"
+		VolumeNumberReset="same"
+		ChapterNumberReset="continue"
+		BreakType="chapter"
+	PageType="firstright"></TocEntry>
+	<TocEntry
+		Title="CH 3 Tables"
+		Link="/Content/C_Conditions Notes Tables/Tables.htm"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+		PageNumber=""
+		PageNumberReset="continue"
+		StartPageLayout="false"
+		StartSection="false"
+		AutoEndOnLeftPage="enabled"
+		SectionNumberReset="continue"
+		VolumeNumberReset="same"
+		ChapterNumberReset="continue"
+		BreakType="chapter"
+	PageType="firstright"></TocEntry>
+	<TocEntry
+		Title="Index"
+		Link="/Content/Print Only Topics/Index.htm"
+		BreakType="chapter"
+		PageLayout="/Content/Resources/PageLayouts/8_5X11/Index8_5X11.flpgl"
+		PageType="firstright"
+		StartSection="false"
+		PageNumberReset="continue"
+		SectionNumberReset="continue"
+		VolumeNumberReset="same"
+	ChapterNumberReset="continue" />
+</CatapultToc>

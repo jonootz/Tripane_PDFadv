@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="Year"
+    OriginalName="Year">2015</Variable>
+  <Variable
+    Name="Phone"
+    Comment=""
+    Definition="Some text">Phone 123-456-7890</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text">My Company Name, LLC</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">1234 Lorem Ipsum</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">La Jolla, CA 92037</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName">FictionSoft Pro</Variable>
+  <Variable
+    Name="Tollfree"
+    Comment=""
+    OriginalName="Tollfree">Tollfree 1-234-567-890</Variable>
+  <Variable
+    Name="Fax"
+    Comment=""
+    OriginalName="Fax">Fax 123-987-654</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment="">User Guide A</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+</CatapultVariableSet>

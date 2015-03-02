@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="All" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BackgroundRepeat="no-repeat" BackgroundImage="../../Images/TitlePageBackground.eps" BackgroundPositionX="10px" BackgroundPositionY="-100px" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" Y="-1px" Bottom="48px" X="0px" Right="0px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="624px" Height="817px">
+        </Frame>
+        <Frame X="-48px" Y="864px" Width="720px" Height="47px" Flow="footer" Right="-48px" Bottom="-47px" TextAlign="right" VerticalAlign="top" Anchors="Left,Right,Bottom">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="FrameFooterText2" xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" />&#160;<xhtml:img xhtml:src="../../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" />&#160;<xhtml:img xhtml:src="../../Images/FooterCircleBlack.eps" xhtml:style="max-width: 30px;" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

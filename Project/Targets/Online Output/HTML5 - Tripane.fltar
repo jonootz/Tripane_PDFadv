@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/A_Introduction Topics/Welcome.htm"
+  MasterToc="/Project/TOCs/OnlineOutput.fltoc"
+  ConditionTagExpression="include[General.Online]exclude[General.PDF or PrintGuides.UserGuideA or PrintGuides.UserGuideB]"
+  InsertMOTW="true"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp">
+</CatapultTarget>
